@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there! 👋
 
+My name is Joe, JR or Lando. 
+I'm currently learning to code with Python which will allow me to work on and build a browser-based game.
+While learning, I'd love to collaborate on anything that allows me to learn code faster. 
+And I'd love help with learning the basics of Python and also learn some other languages that will help my goal with building the game.
+Ask me anything! I'm open to work on or collaborate with anything.
+How to reach me: *I'll update my contact information later*
+
+Fun fact: I love pro wrestling, movies and, of course, now I love learning to code.
 <!--
 **JR-Lande/JR-Lande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
